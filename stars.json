@@ -1,39 +1,39 @@
 [
   {
     "full_name": "juce-framework/JUCE",
-    "stargazers_count": 3578,
-    "open_issues_count": 247,
-    "forks_count": 1060
+    "stargazers_count": 3592,
+    "open_issues_count": 248,
+    "forks_count": 1062
   },
   {
     "full_name": "sudheerj/vuejs-interview-questions",
-    "stargazers_count": 1215,
+    "stargazers_count": 1229,
     "open_issues_count": 0,
-    "forks_count": 336
+    "forks_count": 337
   },
   {
     "full_name": "dabit3/nuxt-supabase-full-multi-user-blog",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "nuxt/create-nuxt-app",
-    "stargazers_count": 3019,
+    "stargazers_count": 3022,
     "open_issues_count": 132,
     "forks_count": 387
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 18103,
-    "open_issues_count": 165,
-    "forks_count": 883
+    "stargazers_count": 18300,
+    "open_issues_count": 168,
+    "forks_count": 900
   },
   {
     "full_name": "onderceylan/pwa-asset-generator",
-    "stargazers_count": 1643,
-    "open_issues_count": 17,
-    "forks_count": 77
+    "stargazers_count": 1646,
+    "open_issues_count": 18,
+    "forks_count": 78
   },
   {
     "full_name": "cosmicjs/vue-music-website",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "vuejs/awesome-vue",
-    "stargazers_count": 62130,
-    "open_issues_count": 24,
-    "forks_count": 8610
+    "stargazers_count": 62166,
+    "open_issues_count": 25,
+    "forks_count": 8615
   },
   {
     "full_name": "ivodolenc/nuxt-animejs",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "iina/iina",
-    "stargazers_count": 27894,
-    "open_issues_count": 1194,
-    "forks_count": 2069
+    "stargazers_count": 27915,
+    "open_issues_count": 1195,
+    "forks_count": 2072
   },
   {
     "full_name": "imadovitch/Horizontal-Animation-on-Vertical-Scroll-using-Vue.js-TailwindCSS",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "Asabeneh/JavaScript-for-Everyone",
-    "stargazers_count": 355,
+    "stargazers_count": 357,
     "open_issues_count": 0,
-    "forks_count": 150
+    "forks_count": 152
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 9615,
-    "open_issues_count": 76,
-    "forks_count": 2087
+    "stargazers_count": 9636,
+    "open_issues_count": 77,
+    "forks_count": 2098
   },
   {
     "full_name": "rogden/tailwind-config-viewer",
-    "stargazers_count": 1085,
+    "stargazers_count": 1089,
     "open_issues_count": 17,
     "forks_count": 49
   },
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 168157,
-    "open_issues_count": 31,
-    "forks_count": 21492
+    "stargazers_count": 168316,
+    "open_issues_count": 34,
+    "forks_count": 21516
   },
   {
     "full_name": "acekyd/made-in-nigeria",
-    "stargazers_count": 554,
+    "stargazers_count": 556,
     "open_issues_count": 9,
     "forks_count": 299
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 34413,
-    "open_issues_count": 39,
-    "forks_count": 5037
+    "stargazers_count": 34497,
+    "open_issues_count": 33,
+    "forks_count": 5041
   },
   {
     "full_name": "thembari/API",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "nesdis/djongo",
-    "stargazers_count": 1387,
+    "stargazers_count": 1393,
     "open_issues_count": 273,
     "forks_count": 252
   },
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 155749,
-    "open_issues_count": 40,
-    "forks_count": 17640
+    "stargazers_count": 156098,
+    "open_issues_count": 47,
+    "forks_count": 17701
   },
   {
     "full_name": "sithis993/Crypter",
-    "stargazers_count": 343,
+    "stargazers_count": 345,
     "open_issues_count": 15,
     "forks_count": 137
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 202772,
-    "open_issues_count": 25,
-    "forks_count": 44156
+    "stargazers_count": 203197,
+    "open_issues_count": 27,
+    "forks_count": 44217
   },
   {
     "full_name": "maxogden/art-of-node",
-    "stargazers_count": 9247,
+    "stargazers_count": 9251,
     "open_issues_count": 17,
     "forks_count": 868
   }
