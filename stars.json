@@ -1,15 +1,15 @@
 [
   {
     "full_name": "juce-framework/JUCE",
-    "stargazers_count": 4081,
-    "open_issues_count": 244,
-    "forks_count": 1224
+    "stargazers_count": 4089,
+    "open_issues_count": 245,
+    "forks_count": 1228
   },
   {
     "full_name": "sudheerj/vuejs-interview-questions",
-    "stargazers_count": 1543,
+    "stargazers_count": 1548,
     "open_issues_count": 1,
-    "forks_count": 427
+    "forks_count": 431
   },
   {
     "full_name": "dabit3/nuxt-supabase-full-multi-user-blog",
@@ -19,20 +19,20 @@
   },
   {
     "full_name": "nuxt/create-nuxt-app",
-    "stargazers_count": 3188,
+    "stargazers_count": 3190,
     "open_issues_count": 127,
-    "forks_count": 413
+    "forks_count": 412
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 30706,
-    "open_issues_count": 272,
-    "forks_count": 1783
+    "stargazers_count": 30818,
+    "open_issues_count": 265,
+    "forks_count": 1787
   },
   {
     "full_name": "onderceylan/pwa-asset-generator",
-    "stargazers_count": 1919,
-    "open_issues_count": 26,
+    "stargazers_count": 1921,
+    "open_issues_count": 27,
     "forks_count": 97
   },
   {
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "vuejs/awesome-vue",
-    "stargazers_count": 64541,
-    "open_issues_count": 31,
-    "forks_count": 8949
+    "stargazers_count": 64574,
+    "open_issues_count": 32,
+    "forks_count": 8954
   },
   {
     "full_name": "ivodolenc/nuxt-animejs",
-    "stargazers_count": 52,
+    "stargazers_count": 54,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "iina/iina",
-    "stargazers_count": 29625,
-    "open_issues_count": 1328,
-    "forks_count": 2240
+    "stargazers_count": 29647,
+    "open_issues_count": 1331,
+    "forks_count": 2239
   },
   {
     "full_name": "imadovitch/Horizontal-Animation-on-Vertical-Scroll-using-Vue.js-TailwindCSS",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "Asabeneh/JavaScript-for-Everyone",
-    "stargazers_count": 463,
+    "stargazers_count": 464,
     "open_issues_count": 0,
     "forks_count": 187
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 19087,
-    "open_issues_count": 22,
-    "forks_count": 4024
+    "stargazers_count": 19264,
+    "open_issues_count": 23,
+    "forks_count": 4083
   },
   {
     "full_name": "rogden/tailwind-config-viewer",
-    "stargazers_count": 1293,
+    "stargazers_count": 1298,
     "open_issues_count": 22,
     "forks_count": 61
   },
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 195971,
-    "open_issues_count": 42,
-    "forks_count": 23249
+    "stargazers_count": 196304,
+    "open_issues_count": 43,
+    "forks_count": 23266
   },
   {
     "full_name": "acekyd/made-in-nigeria",
-    "stargazers_count": 742,
+    "stargazers_count": 745,
     "open_issues_count": 14,
     "forks_count": 340
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 39450,
-    "open_issues_count": 66,
-    "forks_count": 5586
+    "stargazers_count": 39486,
+    "open_issues_count": 68,
+    "forks_count": 5589
   },
   {
     "full_name": "thembari/API",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "nesdis/djongo",
-    "stargazers_count": 1522,
+    "stargazers_count": 1520,
     "open_issues_count": 300,
-    "forks_count": 284
+    "forks_count": 285
   },
   {
     "full_name": "Maduflavins/paystackimplementation",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 187714,
+    "stargazers_count": 188051,
     "open_issues_count": 1,
-    "forks_count": 21668
+    "forks_count": 21724
   },
   {
     "full_name": "sithis993/Crypter",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 229651,
+    "stargazers_count": 230022,
     "open_issues_count": 33,
-    "forks_count": 48310
+    "forks_count": 48358
   },
   {
     "full_name": "maxogden/art-of-node",
-    "stargazers_count": 9387,
+    "stargazers_count": 9391,
     "open_issues_count": 17,
-    "forks_count": 886
+    "forks_count": 887
   }
 ]
