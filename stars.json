@@ -1,13 +1,13 @@
 [
   {
     "full_name": "juce-framework/JUCE",
-    "stargazers_count": 4297,
+    "stargazers_count": 4307,
     "open_issues_count": 263,
-    "forks_count": 1279
+    "forks_count": 1281
   },
   {
     "full_name": "sudheerj/vuejs-interview-questions",
-    "stargazers_count": 1654,
+    "stargazers_count": 1657,
     "open_issues_count": 1,
     "forks_count": 455
   },
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 34927,
-    "open_issues_count": 272,
-    "forks_count": 2089
+    "stargazers_count": 35065,
+    "open_issues_count": 281,
+    "forks_count": 2114
   },
   {
     "full_name": "onderceylan/pwa-asset-generator",
-    "stargazers_count": 2046,
-    "open_issues_count": 37,
+    "stargazers_count": 2049,
+    "open_issues_count": 33,
     "forks_count": 107
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "vuejs/awesome-vue",
-    "stargazers_count": 65552,
-    "open_issues_count": 35,
-    "forks_count": 9052
+    "stargazers_count": 65578,
+    "open_issues_count": 36,
+    "forks_count": 9053
   },
   {
     "full_name": "ivodolenc/nuxt-animejs",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "iina/iina",
-    "stargazers_count": 30478,
-    "open_issues_count": 1355,
-    "forks_count": 2292
+    "stargazers_count": 30507,
+    "open_issues_count": 1357,
+    "forks_count": 2295
   },
   {
     "full_name": "imadovitch/Horizontal-Animation-on-Vertical-Scroll-using-Vue.js-TailwindCSS",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
     "full_name": "imadovitch/Music-Player-App-built-with-Vue.js-Vue3-and-Howler.js",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "Asabeneh/JavaScript-for-Everyone",
-    "stargazers_count": 567,
+    "stargazers_count": 570,
     "open_issues_count": 0,
     "forks_count": 205
   },
   {
     "full_name": "Asabeneh/30-Days-Of-JavaScript",
-    "stargazers_count": 24236,
-    "open_issues_count": 57,
-    "forks_count": 5241
+    "stargazers_count": 24373,
+    "open_issues_count": 59,
+    "forks_count": 5287
   },
   {
     "full_name": "rogden/tailwind-config-viewer",
-    "stargazers_count": 1380,
+    "stargazers_count": 1382,
     "open_issues_count": 25,
     "forks_count": 68
   },
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 207043,
-    "open_issues_count": 38,
-    "forks_count": 23675
+    "stargazers_count": 207543,
+    "open_issues_count": 39,
+    "forks_count": 23700
   },
   {
     "full_name": "acekyd/made-in-nigeria",
-    "stargazers_count": 766,
+    "stargazers_count": 767,
     "open_issues_count": 5,
     "forks_count": 348
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 41218,
+    "stargazers_count": 41306,
     "open_issues_count": 92,
-    "forks_count": 5682
+    "forks_count": 5678
   },
   {
     "full_name": "thembari/API",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 198719,
-    "open_issues_count": 24,
-    "forks_count": 22871
+    "stargazers_count": 199139,
+    "open_issues_count": 27,
+    "forks_count": 22920
   },
   {
     "full_name": "sithis993/Crypter",
-    "stargazers_count": 435,
+    "stargazers_count": 434,
     "open_issues_count": 16,
-    "forks_count": 166
+    "forks_count": 167
   },
   {
     "full_name": "Gloryness/Multiprocessing-in-PyQt5",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 237786,
-    "open_issues_count": 39,
-    "forks_count": 49372
+    "stargazers_count": 238421,
+    "open_issues_count": 42,
+    "forks_count": 49425
   },
   {
     "full_name": "maxogden/art-of-node",
-    "stargazers_count": 9439,
+    "stargazers_count": 9436,
     "open_issues_count": 17,
-    "forks_count": 893
+    "forks_count": 892
   }
 ]
